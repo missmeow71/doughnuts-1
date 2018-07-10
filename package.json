@@ -8,9 +8,10 @@
     "start": "node app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sandy",
   "license": "ISC",
   "dependencies": {
+    "ejs": "~1.0.0",
     "express": "^4.16.2"
   }
 }
